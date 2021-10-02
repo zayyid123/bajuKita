@@ -1,2 +1,2 @@
 # bajuKita
-web untuk pean baju
+web untuk pesan baju
